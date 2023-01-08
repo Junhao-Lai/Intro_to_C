@@ -12,6 +12,6 @@ for(i = 0; i <30; i++)
 }
 
 
-printf("\n++++++++\n");
+printf("\n+++++++\n");
 return 0;
 }
