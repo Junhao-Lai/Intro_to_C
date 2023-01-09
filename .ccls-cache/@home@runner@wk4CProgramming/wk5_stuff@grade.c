@@ -9,10 +9,6 @@ int main(void)
 
 
 
-
-
-  
-
   double sum = 0.0;
   int i;
 
